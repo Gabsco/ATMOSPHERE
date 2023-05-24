@@ -1,0 +1,228 @@
+@import url(font-family: 'Arvo', serif;
+font-family: 'Prompt', sans-serif;);
+*{
+  background-color: black;
+  
+  
+
+}
+
+.banniere {
+  background-color: black;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  z-index: 9999;
+	width: 100%;
+	transition: top 0.3s ease-in-out;
+  color: white;
+  
+}
+
+
+.banniere li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+
+.banniere ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.banniere ul li {
+  margin: 0 10px;
+  display: inline-block;
+  margin-right: 100px;
+}
+
+.banniere ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+
+}
+.banniere img {
+  width: 80%;
+  height: 70px;
+  margin: 15px 20px 8px 50px;
+  ;
+}
+.text-center {
+  text-align: center;
+
+}
+.footer_black{
+  height: 200px;
+  width: 100%;
+  background-color: black;
+
+}
+.footer_black ul{
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 2px 4px 15px;
+  font-size: 14px;
+  font-family: "Prompt", "sans-serif";
+  font-weight: bold;
+  display: block;
+  padding: 2% 1.5% 0% 16.8%;
+  float: left;
+
+}
+.footer_black ul li{
+  display: block;
+  text-decoration: none;
+  color:white;
+  font-family: "Prompt", "Sans-serif";
+  font-size: 12px;
+  padding: 4px 27px 3px 5px;
+}
+
+.footer_black ul .titre_footer_black{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 2px 4px 15px;
+    font-size: 14px;
+    font-family: "Prompt", "sans-serif";
+    font-weight: bold;
+}
+.footer_black_bas{
+  margin-bottom: 0;
+  height: 130px;
+  width: 100%;
+  background-color: black;
+}
+.footer_black_bas ul{
+    display: block;
+    padding: 1.2% 1.5% 0 16.8%;
+    float: left;
+  
+}
+.footer_black_bas ul li{
+  display: block;
+  text-decoration: none;
+  color:white;
+  padding: 0px 27px 3px 5px;
+  font-family: "Prompt", "Sans-serif";
+  font-size: 12px;
+ 
+}
+.footer_black_bas ul .titre_footer_black_bas{
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 2px 4px 15px;
+  font-size: 14px;
+  font-family: "Prompt", "sans-serif";
+  font-weight: bold;
+  margin-left: -8px;
+}
+.logo_petit{
+  height: 20px;
+  width: 30px;
+  margin-right: 7px;
+  margin-bottom: -4px;
+}
+.mail {
+  height: 20px;
+  width: 20px;
+  margin-right: 7px;
+  margin-bottom: -5px;
+}
+main {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.photo {
+  background-image: url("couleurs-bouteille-de-biere.webp");
+  background-size: contain;
+  
+  padding: 10px;
+  height: 875px;
+  width: 100%; 
+  flex-wrap: wrap;
+  align-content: flex-start;
+  display: flex;
+  margin-left: -8px;
+  margin-right: ;
+  align-content: initial;display: flex;
+  position: relative;
+
+} */
+
+h1{
+  font-family: "Prompt", sans-serif;
+}
+h2{
+  color: white;
+  font-size: 35px;
+  font-family: "Prompt", sans-serif;
+}
+.notre-animations{
+  height: 600px;
+}
+video {
+  
+  width: 50%;
+  height: 50%;
+  position: absolute;
+  top: 1300px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+h3{
+  color: white;
+  font-size: 35px;
+  font-family: "Prompt", sans-serif;
+  
+}
+
+/* .tk78{
+  background-image: url("biere.webp");
+ 
+  box-sizing: border-box; 
+  width: 1200;
+  height: 875px;
+  flex-wrap: wrap;
+  align-content: flex-end;
+  display: flex; 
+  gap: initial;
+  
+  
+
+} */
+
+
+
+
+
+
+
+
+
+/*header-fixed-top pour l'image/*
+ 
+  align-items: flex-end;
+  flex-direction: initial;
+  flex-wrap: initial;
+  justify-content: initial;
+  align-items: initial;
+  order: initial;
+  align-self: initial;
+  flex-basis: initial;
+  flex-grow: initial;
+  flex-shrink: initial;
+
+ 
