@@ -1,0 +1,166 @@
+@import url(font-family: 'Arvo', serif;
+font-family: 'Prompt', sans-serif;);
+*{
+  background-color: black;
+  
+  
+
+}
+
+.banniere {
+  background-color: black;
+  padding: 10px;
+  
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  width: 100%;
+  z-index: 9999;
+  transition: top 0.3s ease-in-out;
+  color: white;
+  
+}
+
+
+.banniere li {
+    display: inline-block;
+    margin: 0 10px;
+  }
+
+
+.banniere ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+}
+
+.banniere ul li {
+  margin: 0 10px;
+  display: inline-block;
+  margin-right: 100px;
+}
+
+.banniere ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 18px;
+
+}
+.banniere img {
+  width: 80%;
+  height: 70px;
+  margin: 15px 20px 8px 50px;
+  ;
+}
+.text-center {
+  text-align: center;
+
+}
+.footer_black{
+  height: 200px;
+  width: 100%;
+  background-color: black;
+
+}
+.footer_black ul{
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 2px 4px 15px;
+  font-size: 14px;
+  font-family: "Prompt", "sans-serif";
+  font-weight: bold;
+  display: block;
+  padding: 2% 1.5% 0% 16.8%;
+  float: left;
+
+}
+.footer_black ul li{
+  display: block;
+  text-decoration: none;
+  color:white;
+  font-family: "Prompt", "Sans-serif";
+  font-size: 12px;
+  padding: 4px 27px 3px 5px;
+}
+
+.footer_black ul .titre_footer_black{
+    display: block;
+    text-decoration: none;
+    color: white;
+    padding: 2px 4px 15px;
+    font-size: 14px;
+    font-family: "Prompt", "sans-serif";
+    font-weight: bold;
+}
+.footer_black_bas{
+  margin-bottom: 0;
+  height: 130px;
+  width: 100%;
+  background-color: black;
+}
+.footer_black_bas ul{
+    display: block;
+    padding: 1.2% 1.5% 0 16.8%;
+    float: left;
+  
+}
+.footer_black_bas ul li{
+  display: block;
+  text-decoration: none;
+  color:white;
+  padding: 0px 27px 3px 5px;
+  font-family: "Prompt", "Sans-serif";
+  font-size: 12px;
+ 
+}
+.footer_black_bas ul .titre_footer_black_bas{
+  display: block;
+  text-decoration: none;
+  color: white;
+  padding: 2px 4px 15px;
+  font-size: 14px;
+  font-family: "Prompt", "sans-serif";
+  font-weight: bold;
+  margin-left: -8px;
+}
+.logo_petit{
+  height: 20px;
+  width: 30px;
+  margin-right: 7px;
+  margin-bottom: -4px;
+}
+.mail {
+  height: 20px;
+  width: 20px;
+  margin-right: 7px;
+  margin-bottom: -5px;
+}
+
+h1{
+    font-family: "Prompt", sans-serif;
+    font-size: 35px;
+    font-family: "Prompt", sans-serif;
+    
+}
+h2{
+  color: white;
+  font-size: 35px;
+  font-family: "Prompt", sans-serif;
+}
+h3{
+  color: white;
+  font-size: 35px;
+  font-family: "Prompt", sans-serif;
+}
+p{
+    color: white;
+    font-size: 20px;
+    font-family: "Prompt", sans-serif;
+}
+ 
